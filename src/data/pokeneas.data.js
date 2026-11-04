@@ -1,4 +1,3 @@
-// URL del bucket público en Google Cloud Platform
 const BUCKET_URL = process.env.GCP_BUCKET_URL || "https://storage.googleapis.com/pokeneas-api";
 
 module.exports = [
